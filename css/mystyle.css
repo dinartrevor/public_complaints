@@ -1,0 +1,112 @@
+/* --------- css one --------- */
+.panel-container .logo-pi img {
+  width: 300px;
+  margin: 30px 30px 50px 50px; }
+
+.panel-container .header-capt {
+   margin-bottom: 50px; }
+/* --------- css one --------- */
+
+/* --------- css two --------- */
+.button-inven .btn-default {
+  border: 3px solid #f8f8f8; }
+/* --------- css two --------- */
+.panel-container{
+  background-color: #fff;
+}
+.panel-widget .button-inven .btn-default {
+  margin-top: 20px;
+  box-shadow: 2px 3px;
+  background-color: #fff;
+  padding: 10px 50px 10px 50px;
+  border: 1px solid #30a5ff;  }
+
+.panel-container .button-inven a{
+   color: #000; }
+
+.panel-container .button-inven a:hover {
+  color: #fff; }
+
+.panel-container .button-inven a:hover {
+  background-color: #30a5ff; }
+
+/* ------ inventory ------ */
+
+.button-tambah .btn-default {
+  width: 150px;
+  margin-top: 20px;
+  box-shadow: 2px 2px;
+  background-color: #30a5ff;
+  padding: 10px 50px 10px 50px;
+  border: 2px solid #30a5ff;  }
+
+.button-tambah a{
+  color: #fff; }
+
+.button-tambah a:hover {
+  color: #30a5ff; }
+
+.button-tambah a:hover {
+  background-color: #fff; }
+
+.inventory .data-item1 .btn-default{
+  margin-bottom: 10px;
+  box-shadow: 2px 2px;
+  background-color: #fff;
+  border: 1px solid #30a5ff;
+  padding: 10px 20px 10px 20px;
+  color: #30a5ff; }
+
+.inventory .data-item1 a:hover{
+  color: #fff; }
+
+.inventory .data-item1 .button .btn-default:hover{
+  background-color: #30a5ff;  }
+
+.inventory .data-item1 hr{
+  border: 1px solid #a9a9a9;
+  opacity: .5;
+  margin-right: 40px; }
+/* ------ tutup inventory ------ */
+
+/* ------ checkout ------ */
+.checkout{
+  padding: 25px 20px;
+}
+
+.checkout .data-item1 .btn-default{
+  margin-bottom: 10px;
+  box-shadow: 2px 2px;
+  background-color: #fff;
+  border: 1px solid #30a5ff;
+  padding: 10px 20px 10px 20px;
+  color: #30a5ff; }
+
+.checkout .data-item1 a:hover{
+  color: #fff; }
+
+.checkout .data-item1 .button .btn-default:hover{
+  background-color: #30a5ff;  }
+
+.checkout .data-item1 hr{
+  border: 1px solid #a9a9a9;
+  opacity: .5;
+  margin-right: 40px; }
+
+.checkout .checkbutton{
+  margin-top: 10px;
+}
+/* ------ tutup checkout ------ */
+
+/* ------------ */
+.panel-container {
+  padding: 50px 80px;
+}
+
+h1, h2, h3, h4, h5, h6, button, span, p, small, input, th, td, a {
+  font-family: 'Poppins', sans-serif;
+}
+
+th, td {
+  text-align: center;
+}

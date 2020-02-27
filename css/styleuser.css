@@ -1,0 +1,27 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	color: #444444;
+}
+
+.container .navbar-brand {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	margin-left: 43%;
+	color:  
+}
+
+h1, h2, h3, h4, h5, h6, label, small, button, span {
+	font-family: 'Poppins', sans-serif;
+}
+
+.container .row .judul hr {
+	width: 20%;
+	margin-bottom: 5px;
+	border: 1px solid #000;
+}
+
+.container .row h1 {
+	font-size: 30px;
+	margin-top: 50px;
+	font-weight: 400;
+}

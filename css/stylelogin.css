@@ -1,0 +1,16 @@
+body {
+	padding-top: 250px;
+}
+
+.panel-body {
+	padding: 40px 50px;
+}
+
+.login-panel .panel-heading {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.login-panel .panel-body .form .fieldset a {
+	margin: auto;
+}
